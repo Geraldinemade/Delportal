@@ -39,7 +39,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate, onAddToCart }) => {
       color: "bg-orange-600",
       target: 'recipes',
       isApp: true
-    }
+    },
     {
        title: (
       <>
@@ -52,7 +52,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate, onAddToCart }) => {
       image: "https://res.cloudinary.com/dilzkmcsl/image/upload/v1767886670/Macotas_yhm8nx.jpg",
       color: "bg-orange-600",
       target: 'Shop',
-    }
+    },
     {
      title: (
       <>
